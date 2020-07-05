@@ -10,7 +10,7 @@
 }
 
 .footer{
-    background-color: #D1C4E9;
+    background-color: #fdd6f1;
     margin: 0px;
     padding: 20px 0px 20px 0px;
 }
@@ -19,7 +19,7 @@
 
     padding: 70pc 300x 70px,30px;
     margin: 0px auto;
-    background: #9575CD;
+    background: #e769f8;
     color: floralwhite;
 }
 
@@ -28,4 +28,13 @@
     margin: opx;
     color: black;
 
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
 }
